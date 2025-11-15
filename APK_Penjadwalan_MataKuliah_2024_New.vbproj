@@ -77,8 +77,8 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AppSession.vb" />
-    <Compile Include="DatabaseHelper.vb" />
+    <Compile Include="Module\AppSession.vb" />
+    <Compile Include="Module\DatabaseHelper.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
